@@ -1,0 +1,17 @@
+{
+  "name": "Project",
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "me"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5"
+  }
+}
